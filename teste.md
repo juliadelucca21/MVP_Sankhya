@@ -1,6 +1,6 @@
 # Processamento NFS-e
 
-A tela de **Processamento NFS-e** permite que o usuário preencha manualmente as informações necessárias para integrar uma Nota Fiscal de Serviço Eletrônica (NFS-e) ao sistema, mesmo quando não há um modelo de integração previamente configurado. Essa funcionalidade é especialmente útil para garantir que documentos fiscais sejam processados corretamente em situações mais específicas ou fora do padrão habitual.
+A tela de **Processamento NFS-e** TESTANDO PULL REQUEST preencha manualmente as informações necessárias para integrar uma Nota Fiscal de Serviço Eletrônica (NFS-e) ao sistema, mesmo quando não há um modelo de integração previamente configurado. Essa funcionalidade é especialmente útil para garantir que documentos fiscais sejam processados corretamente em situações mais específicas ou fora do padrão habitual.
 
 ![Processamento NFS-e](ProcesamentoNFSe.png)
 
